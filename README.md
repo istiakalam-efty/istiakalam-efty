@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm EFty
+# Hi 👋, I'm Efty
 
 ### 🚀 Full Stack Developer | UI/UX Enthusiast | Open Source Lover
 
