@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Always+Learning+New+Things!" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=istiakalam-efty&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 </div>
@@ -58,9 +58,9 @@ Fun Fact: I love building beautiful interfaces.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=istiakalam-efty&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakalam-efty&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Fun Fact: I love building beautiful interfaces.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=istiakalam-efty&theme=tokyo-night"/>
 
 </p>
 
@@ -90,7 +90,7 @@ Fun Fact: I love building beautiful interfaces.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=istiakalam-efty&theme=tokyonight&column=4"/>
 
 </p>
 
@@ -122,7 +122,7 @@ React        ██████████████░░░░░ 70%
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/istiakalam-efty/istiakalam-efty/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
