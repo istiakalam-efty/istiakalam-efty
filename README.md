@@ -70,7 +70,7 @@ Fun Fact: I love building beautiful interfaces.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=istiakalam-efty&theme=tokyonight"/>
 
 </p>
 
